@@ -22,7 +22,7 @@ The goal is to simulate part of the Statista interface by displaying a list of s
   - Thumbnail image
   - Link to original source
 
-## Getting Started
+## Local Development
 
 First, run the development server:
 
@@ -37,3 +37,10 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Live Demo
+
+View the deployed project here:
+[https://statista-prototype.vercel.app](https://statista-prototype.vercel.app)
+
+You can open it on desktop or mobile to test the responsive layout.
